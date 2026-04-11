@@ -16,4 +16,4 @@ python -m unittest discover tests
 1.0.0
 
 ## 👨‍💻 Autor
-Seu Nome
+Arthur Eduardo
